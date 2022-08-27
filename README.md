@@ -1,5 +1,5 @@
 # DownloadScanner
-Scanns downloaded files for threats via virustotal
+Scans downloaded files for threats via virustotal
 
 ## Using it:
 1. Edit the config.txt file.
